@@ -8,6 +8,5 @@ Update made on master GitHub before rebase
 
 This file is just a readme file
 
-## Repository Purpose
-This will be a change that conflicts with whatever is on the remote side
-This was editied locally
+##  Purpose
+The purpose of this file is to provide examples on how to get git and github to work together
